@@ -1,0 +1,320 @@
+name;description;type_class;unit;equipment
+UWND;U Wind (m/s) is the East-West vector component, also referred to as the U or zonal component of the wind. Positive values are directed East.;met;m/s;Anemometer
+VWND;V Wind is (m/s) the North-South vector component of the wind, also referred to as the V or meridional component of the wind. Positive values are directed North.;met;m/s;Anemometer
+WSPD;Wind Speed (m/s);met;m/s;Anemometer
+WDIR;Wind Direction (°);met;°;Anemometer
+AIRT;Air temperature (°C);met;°C;PROBE
+SST;Sea Surface Temperature (°C);met;°C;CTD
+RH;Relative Humidity (%);met;%;PROBE
+SLP;Sea-level barometric pressure (hPa);met;hPa;Barometer
+PREC; Precipitation (mm/h);met;mm/h;Rain Gauge
+SWRad;Shortwave solar radiation (W/m²);met;W/m²;Pyranometer
+LWRad;Longwave radiation (W/m²);met;W/m²;Pyrgeometer
+TEMP2;Water Temperature at 2.0 m depth (°C);ocean;°C;CTD
+TEMP3;Water Temperature at 3.0 m depth (°C);ocean;°C;CTD
+TEMP4;Water Temperature at 4.0 m depth (°C);ocean;°C;CTD
+TEMP5;Water Temperature at 5.0 m depth (°C);ocean;°C;CTD
+TEMP7;Water Temperature at 7.0 m depth (°C);ocean;°C;CTD
+TEMP8;Water Temperature at 8.0 m depth (°C);ocean;°C;CTD
+TEMP9;Water Temperature at 9.0 m depth (°C);ocean;°C;CTD
+TEMP10;Water Temperature at 10.0 m depth (°C);ocean;°C;CTD
+TEMP11;Water Temperature at 11.0 m depth (°C);ocean;°C;CTD
+TEMP13;Water Temperature at 13.0 m depth (°C);ocean;°C;CTD
+TEMP14;Water Temperature at 14.0 m depth (°C);ocean;°C;CTD
+TEMP15;Water Temperature at 15.0 m depth (°C);ocean;°C;CTD
+TEMP16;Water Temperature at 16.0 m depth (°C);ocean;°C;CTD
+TEMP17;Water Temperature at 17.0 m depth (°C);ocean;°C;CTD
+TEMP20;Water Temperature at 20.0 m depth (°C);ocean;°C;CTD
+TEMP23;Water Temperature at 23.0 m depth (°C);ocean;°C;CTD
+TEMP24;Water Temperature at 24.0 m depth (°C);ocean;°C;CTD
+TEMP25;Water Temperature at 25.0 m depth (°C);ocean;°C;CTD
+TEMP26;Water Temperature at 26.0 m depth (°C);ocean;°C;CTD
+TEMP28;Water Temperature at 28.0 m depth (°C);ocean;°C;CTD
+TEMP29;Water Temperature at 29.0 m depth (°C);ocean;°C;CTD
+TEMP30;Water Temperature at 30.0 m depth (°C);ocean;°C;CTD
+TEMP31;Water Temperature at 31.0 m depth (°C);ocean;°C;CTD
+TEMP33;Water Temperature at 33.0 m depth (°C);ocean;°C;CTD
+TEMP34;Water Temperature at 34.0 m depth (°C);ocean;°C;CTD
+TEMP35;Water Temperature at 35.0 m depth (°C);ocean;°C;CTD
+TEMP36;Water Temperature at 36.0 m depth (°C);ocean;°C;CTD
+TEMP37;Water Temperature at 37.0 m depth (°C);ocean;°C;CTD
+TEMP40;Water Temperature at 40.0 m depth (°C);ocean;°C;CTD
+TEMP41;Water Temperature at 41.0 m depth (°C);ocean;°C;CTD
+TEMP43;Water Temperature at 43.0 m depth (°C);ocean;°C;CTD
+TEMP45;Water Temperature at 45.0 m depth (°C);ocean;°C;CTD
+TEMP46;Water Temperature at 46.0 m depth (°C);ocean;°C;CTD
+TEMP47;Water Temperature at 47.0 m depth (°C);ocean;°C;CTD
+TEMP48;Water Temperature at 48.0 m depth (°C);ocean;°C;CTD
+TEMP49;Water Temperature at 49.0 m depth (°C);ocean;°C;CTD
+TEMP50;Water Temperature at 50.0 m depth (°C);ocean;°C;CTD
+TEMP51;Water Temperature at 51.0 m depth (°C);ocean;°C;CTD
+TEMP53;Water Temperature at 53.0 m depth (°C);ocean;°C;CTD
+TEMP55;Water Temperature at 55.0 m depth (°C);ocean;°C;CTD
+TEMP57;Water Temperature at 57.0 m depth (°C);ocean;°C;CTD
+TEMP59;Water Temperature at 59.0 m depth (°C);ocean;°C;CTD
+TEMP60;Water Temperature at 60.0 m depth (°C);ocean;°C;CTD
+TEMP61;Water Temperature at 61.0 m depth (°C);ocean;°C;CTD
+TEMP62;Water Temperature at 62.0 m depth (°C);ocean;°C;CTD
+TEMP63;Water Temperature at 63.0 m depth (°C);ocean;°C;CTD
+TEMP66;Water Temperature at 66.0 m depth (°C);ocean;°C;CTD
+TEMP70;Water Temperature at 70.0 m depth (°C);ocean;°C;CTD
+TEMP75;Water Temperature at 75.0 m depth (°C);ocean;°C;CTD
+TEMP80;Water Temperature at 80.0 m depth (°C);ocean;°C;CTD
+TEMP82;Water Temperature at 82.0 m depth (°C);ocean;°C;CTD
+TEMP83;Water Temperature at 83.0 m depth (°C);ocean;°C;CTD
+TEMP85;Water Temperature at 85.0 m depth (°C);ocean;°C;CTD
+TEMP87;Water Temperature at 87.0 m depth (°C);ocean;°C;CTD
+TEMP90;Water Temperature at 90.0 m depth (°C);ocean;°C;CTD
+TEMP91;Water Temperature at 91.0 m depth (°C);ocean;°C;CTD
+TEMP98;Water Temperature at 98.0 m depth (°C);ocean;°C;CTD
+TEMP99;Water Temperature at 99.0 m depth (°C);ocean;°C;CTD
+TEMP100;Water Temperature at 100.0 m depth (°C);ocean;°C;CTD
+TEMP101;Water Temperature at 101.0 m depth (°C);ocean;°C;CTD
+TEMP102;Water Temperature at 102.0 m depth (°C);ocean;°C;CTD
+TEMP103;Water Temperature at 103.0 m depth (°C);ocean;°C;CTD
+TEMP107;Water Temperature at 107.0 m depth (°C);ocean;°C;CTD
+TEMP110;Water Temperature at 110.0 m depth (°C);ocean;°C;CTD
+TEMP112;Water Temperature at 112.0 m depth (°C);ocean;°C;CTD
+TEMP120;Water Temperature at 120.0 m depth (°C);ocean;°C;CTD
+TEMP121;Water Temperature at 121.0 m depth (°C);ocean;°C;CTD
+TEMP122;Water Temperature at 122.0 m depth (°C);ocean;°C;CTD
+TEMP123;Water Temperature at 123.0 m depth (°C);ocean;°C;CTD
+TEMP125;Water Temperature at 125.0 m depth (°C);ocean;°C;CTD
+TEMP130;Water Temperature at 130.0 m depth (°C);ocean;°C;CTD
+TEMP132;Water Temperature at 132.0 m depth (°C);ocean;°C;CTD
+TEMP137;Water Temperature at 137.0 m depth (°C);ocean;°C;CTD
+TEMP140;Water Temperature at 140.0 m depth (°C);ocean;°C;CTD
+TEMP142;Water Temperature at 142.0 m depth (°C);ocean;°C;CTD
+TEMP150;Water Temperature at 150.0 m depth (°C);ocean;°C;CTD
+TEMP151;Water Temperature at 151.0 m depth (°C);ocean;°C;CTD
+TEMP153;Water Temperature at 153.0 m depth (°C);ocean;°C;CTD
+TEMP157;Water Temperature at 157.0 m depth (°C);ocean;°C;CTD
+TEMP160;Water Temperature at 160.0 m depth (°C);ocean;°C;CTD
+TEMP161;Water Temperature at 161.0 m depth (°C);ocean;°C;CTD
+TEMP162;Water Temperature at 162.0 m depth (°C);ocean;°C;CTD
+TEMP170;Water Temperature at 170.0 m depth (°C);ocean;°C;CTD
+TEMP175;Water Temperature at 175.0 m depth (°C);ocean;°C;CTD
+TEMP179;Water Temperature at 179.0 m depth (°C);ocean;°C;CTD
+TEMP180;Water Temperature at 180.0 m depth (°C);ocean;°C;CTD
+TEMP183;Water Temperature at 183.0 m depth (°C);ocean;°C;CTD
+TEMP199;Water Temperature at 199.0 m depth (°C);ocean;°C;CTD
+TEMP200;Water Temperature at 200.0 m depth (°C);ocean;°C;CTD
+TEMP201;Water Temperature at 201.0 m depth (°C);ocean;°C;CTD
+TEMP203;Water Temperature at 203.0 m depth (°C);ocean;°C;CTD
+TEMP207;Water Temperature at 207.0 m depth (°C);ocean;°C;CTD
+TEMP222;Water Temperature at 222.0 m depth (°C);ocean;°C;CTD
+TEMP225;Water Temperature at 225.0 m depth (°C);ocean;°C;CTD
+TEMP232;Water Temperature at 232.0 m depth (°C);ocean;°C;CTD
+TEMP250;Water Temperature at 250.0 m depth (°C);ocean;°C;CTD
+TEMP251;Water Temperature at 251.0 m depth (°C);ocean;°C;CTD
+TEMP275;Water Temperature at 275.0 m depth (°C);ocean;°C;CTD
+TEMP282;Water Temperature at 282.0 m depth (°C);ocean;°C;CTD
+TEMP285;Water Temperature at 285.0 m depth (°C);ocean;°C;CTD
+TEMP300;Water Temperature at 300.0 m depth (°C);ocean;°C;CTD
+TEMP301;Water Temperature at 301.0 m depth (°C);ocean;°C;CTD
+TEMP382;Water Temperature at 382.0 m depth (°C);ocean;°C;CTD
+TEMP400;Water Temperature at 400.0 m depth (°C);ocean;°C;CTD
+TEMP470;Water Temperature at 470.0 m depth (°C);ocean;°C;CTD
+TEMP482;Water Temperature at 482.0 m depth (°C);ocean;°C;CTD
+TEMP500;Water Temperature at 500.0 m depth (°C);ocean;°C;CTD
+TEMP750;Water Temperature at 750.0 m depth (°C);ocean;°C;CTD
+TEMP1000; Water Temperature at 1000.0 m depth (°C);ocean;°C;CTD
+TEMP2000;Water Temperature at 2000.0 m depth (°C);ocean;°C;CTD
+SSS;Salinity at 1.0 m depth (psu);ocean;psu;CTD
+SAL3;Salinity at 3.0 m depth (psu);ocean;psu;CTD
+SAL5;Salinity at 5.0 m depth (psu);ocean;psu;CTD
+SAL7;Salinity at 7.0 m depth (psu);ocean;psu;CTD
+SAL10;Salinity at 10.0 m depth (psu);ocean;psu;CTD
+SAL11;Salinity at 11.0 m depth (psu);ocean;psu;CTD
+SAL14;Salinity at 14.0 m depth (psu);ocean;psu;CTD
+SAL15;Salinity at 15.0 m depth (psu);ocean;psu;CTD
+SAL16;Salinity at 16.0 m depth (psu);ocean;psu;CTD
+SAL20;Salinity at 20.0 m depth (psu);ocean;psu;CTD
+SAL25;Salinity at 25.0 m depth (psu);ocean;psu;CTD
+SAL26;Salinity at 26.0 m depth (psu);ocean;psu;CTD
+SAL29;Salinity at 29.0 m depth (psu);ocean;psu;CTD
+SAL30;Salinity at 30.0 m depth (psu);ocean;psu;CTD
+SAL33;Salinity at 33.0 m depth (psu);ocean;psu;CTD
+SAL35;Salinity at 35.0 m depth (psu);ocean;psu;CTD
+SAL37;Salinity at 37.0 m depth (psu);ocean;psu;CTD
+SAL40;Salinity at 40.0 m depth (psu);ocean;psu;CTD
+SAL45;Salinity at 45.0 m depth (psu);ocean;psu;CTD
+SAL50;Salinity at 50.0 m depth (psu);ocean;psu;CTD
+SAL51;Salinity at 51.0 m depth (psu);ocean;psu;CTD
+SAL57;Salinity at 57.0 m depth (psu);ocean;psu;CTD
+SAL60;Salinity at 60.0 m depth (psu);ocean;psu;CTD
+SAL62;Salinity at 62.0 m depth (psu);ocean;psu;CTD
+SAL70;Salinity at 70.0 m depth (psu);ocean;psu;CTD
+SAL75;Salinity at 75.0 m depth (psu);ocean;psu;CTD
+SAL76;Salinity at 76.0 m depth (psu);ocean;psu;CTD
+SAL79;Salinity at 79.0 m depth (psu);ocean;psu;CTD
+SAL80;Salinity at 80.0 m depth (psu);ocean;psu;CTD
+SAL83;Salinity at 83.0 m depth (psu);ocean;psu;CTD
+SAL87;Salinity at 87.0 m depth (psu);ocean;psu;CTD
+SAL100;Salinity at 100.0 m depth (psu);ocean;psu;CTD
+SAL101;Salinity at 101.0 m depth (psu);ocean;psu;CTD
+SAL102;Salinity at 102.0 m depth (psu);ocean;psu;CTD
+SAL112;Salinity at 112.0 m depth (psu);ocean;psu;CTD
+SAL120;Salinity at 120.0 m depth (psu);ocean;psu;CTD
+SAL125;Salinity at 125.0 m depth (psu);ocean;psu;CTD
+SAL132;Salinity at 132.0 m depth (psu);ocean;psu;CTD
+SAL137;Salinity at 137.0 m depth (psu);ocean;psu;CTD
+SAL140;Salinity at 140.0 m depth (psu);ocean;psu;CTD
+SAL150;Salinity at 150.0 m depth (psu);ocean;psu;CTD
+SAL151;Salinity at 151.0 m depth (psu);ocean;psu;CTD
+SAL175;Salinity at 175.0 m depth (psu);ocean;psu;CTD
+SAL183;Salinity at 183.0 m depth (psu);ocean;psu;CTD
+SAL200;Salinity at 200.0 m depth (psu);ocean;psu;CTD
+SAL201;Salinity at 201.0 m depth (psu);ocean;psu;CTD
+SAL225;Salinity at 225.0 m depth (psu);ocean;psu;CTD
+SAL250;Salinity at 250.0 m depth (psu);ocean;psu;CTD
+SAL275;Salinity at 275.0 m depth (psu);ocean;psu;CTD
+SAL300;Salinity at 300.0 m depth (psu);ocean;psu;CTD
+SAL400;Salinity at 400.0 m depth (psu);ocean;psu;CTD
+SAL500;Salinity at 500.0 m depth (psu);ocean;psu;CTD
+SAL750;Salinity at 750.0 m depth (psu);ocean;psu;CTD
+SSD;Density at 1.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN3;Density at 3.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN5;Density at 5.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN7;Density at 7.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN10;Density at 10.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN11;Density at 11.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN14;Density at 14.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN15;Density at 15.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN16;Density at 16.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN20;Density at 20.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN25;Density at 25.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN26;Density at 26.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN29;Density at 29.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN30;Density at 30.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN33;Density at 33.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN35;Density at 35.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN37;Density at 37.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN40;Density at 40.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN45;Density at 45.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN50;Density at 50.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN51;Density at 51.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN57;Density at 57.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN60;Density at 60.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN62;Density at 62.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN70;Density at 70.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN75;Density at 75.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN76;Density at 76.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN79;Density at 79.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN80;Density at 80.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN83;Density at 83.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN87;Density at 87.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN100;Density at 100.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN101;Density at 101.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN102;Density at 102.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN112;Density at 112.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN120;Density at 120.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN125;Density at 125.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN132;Density at 132.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN137;Density at 137.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN140;Density at 140.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN150;Density at 150.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN151;Density at 151.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN175;Density at 175.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN183;Density at 183.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN200;Density at 200.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN201;Density at 201.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN225;Density at 225.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN250;Density at 250.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN275;Density at 275.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN300;Density at 300.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN400;Density at 400.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN500;Density at 500.0 m depth (kg/m³);ocean;kg/m³;CTD
+DEN750;Density at 750.0 m depth (kg/m³);ocean;kg/m³;CTD
+ZONAL3;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID3;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD3;Current Speed at 3.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR3;Current Direction at 3.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL10;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID10;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD10;Current Speed at 10.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR10;Current Direction at 10.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL12;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID12;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD12;Current Speed at 12.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR12;Current Direction at 12.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL15;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID15;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD15;Current Speed at 15.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR15;Current Direction at 15.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL25;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID25;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD25;Current Speed at 25.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR25;Current Direction at 25.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL38;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID38;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD38;Current Speed at 38.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR38;Current Direction at 38.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL40;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID40;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD40;Current Speed at 40.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR40;Current Direction at 40.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL45;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID45;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD45;Current Speed at 45.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR45;Current Direction at 45.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL50;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID50;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD50;Current Speed at 50.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR50;Current Direction at 50.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL52;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID52;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD52;Current Speed at 52.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR52;Current Direction at 52.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL60;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID60;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD60;Current Speed at 60.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR60;Current Direction at 60.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL80;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID80;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD80;Current Speed at 80.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR80;Current Direction at 80.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL82;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID82;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD82;Current Speed at 82.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR82;Current Direction at 82.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL100;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID100;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD100;Current Speed at 100.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR100;Current Direction at 100.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL102;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID102;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD102;Current Speed at 102.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR102;Current Direction at 102.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL120;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID120;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD120;Current Speed at 120.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR120;Current Direction at 120.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL150;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID150;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD150;Current Speed at 150.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR150;Current Direction at 150.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL160;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID160;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD160;Current Speed at 160.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR160;Current Direction at 160.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL182;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID182;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD182;Current Speed at 182.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR182;Current Direction at 182.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL200;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID200;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD200;Current Speed at 200.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR200;Current Direction at 200.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL202;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID202;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD202;Current Speed at 202.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR202;Current Direction at 202.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL250;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID250;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD250;Current Speed at 250.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR250;Current Direction at 250.0 m depth (cm/s);current;°;Doppler Current Meter
+ZONAL300;U current (cm/s) is the East-West vector component of ocean current, also referred to as the U or zonal component. Positive values are directed East.;current;cm/s;Doppler Current Meter
+MERID300;V curernt (cm/s) is the North-South vector component of ocean current, also referred to as the V or meridional component. Positive values are directed north.;current;cm/s;Doppler Current Meter
+CUR_SPD300;Current Speed at 300.0 m depth (cm/s);current;cm/s;Doppler Current Meter
+CUR_DIR300;Current Direction at 300.0 m depth (cm/s);current;°;Doppler Current Meter
